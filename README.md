@@ -24,6 +24,3 @@ python3 ip_info.py <IP>
 python3 ip_info.py 8.8.8.8
 ```
 
----
-
-Built by [itzneel05](https://github.com/itzneel05) as part of a cybersecurity learning journey. Feedback and contributions welcome!
